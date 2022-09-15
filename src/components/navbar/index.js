@@ -51,8 +51,15 @@ export function Navbar() {
                 );
               });
           })}
-          <div className={style.phoneLogo} style={{ display: "flex", flexDirection: "row" }}>
-            <img src={phoneLogo} alt="phone logo" style={{height:'40px' , marginRight:'20px'}}/>
+          <div
+            className={style.phoneLogo}
+            style={{ display: "flex", flexDirection: "row" }}
+          >
+            <img
+              src={phoneLogo}
+              alt="phone logo"
+              style={{ height: "30px", marginRight: "10px" }}
+            />
             <p>+55 11 98765-4321</p>
           </div>
         </nav>

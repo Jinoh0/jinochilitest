@@ -13,12 +13,14 @@
 }
 
 .sponsor {
-  height: 45px;
+  margin-top: 3%;
+  align-self: baseline;
+  height: 20px;
 }
 
 .phoneLogo {
-  height: 50px;
-  font-size: 34px;
+  height: 20px;
+  font-size: 24px;
   color: white;
-  font-weight: 800;
+  font-weight: 600;
 }

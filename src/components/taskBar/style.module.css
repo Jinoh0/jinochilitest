@@ -1,15 +1,56 @@
+#a {
+  width: 55px;
+}
+
+#b { 
+    width: 120px;
+}
+
+#c {
+    width: 110px;
+}
+
+#e {
+    width: 180px;
+}
+
+#f {
+    width: 123px;
+}
+
+
 .taskbar {
+  display: flex;
+  width: 100%;
+  align-items: baseline;
+}
+
+.select {
   background-color: rgba(0, 0, 0, 0);
-  max-width: 60px;
   color: white;
   text-decoration: none;
   font-weight: 600;
   margin-top: 5%;
+  margin-right: 2%;
+}
+
+option {
+  background-color: white;
+  color: #fd7b82;
 }
 
 
+.contact {
+    color: white;
+}
 
-option {
-    background-color: bisque;
-    color: black;
+.btn {
+    padding: 10px;
+    height: 45px;
+    width: 190px;
+    word-break: normal;
+    border-radius: 4px;
+    background-color: #730f57;
+    color: white;
+    font-weight: 400;
 }
