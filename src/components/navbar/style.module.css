@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 25px;
+}
+
+.logo {
+  /* height: 10%;
+    padding: 2%; */
+  height: 10%;
+  width: 10%;
+}
+
+.sponsor {
+  height: 45px;
+}
+
+.phoneLogo {
+  height: 50px;
+  font-size: 34px;
+  color: white;
+  font-weight: 800;
+}

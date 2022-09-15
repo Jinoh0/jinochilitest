@@ -1,0 +1,15 @@
+.taskbar {
+  background-color: rgba(0, 0, 0, 0);
+  max-width: 60px;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 5%;
+}
+
+
+
+option {
+    background-color: bisque;
+    color: black;
+}
